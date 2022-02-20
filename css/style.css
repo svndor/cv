@@ -1,12 +1,15 @@
 body {
-  background-color: #FAF3F3;
+  background-color: #FDEFF4; 
+
+  /* or FAF3F3 */
 }
-h1 {
-  color: #F29191;
-}
-h3 {
-  color: #F29191;
-}
+
+h1,h3 {
+  color: #E9A6A6;
+
+  /* or F29191 */
+} 
+
 
 hr {
 border-style: none;
@@ -14,7 +17,6 @@ border-top-style: dotted;
 border-color: LightGrey;
 border-width: 5px;
 width: 5%
-
 }
 
 img {
