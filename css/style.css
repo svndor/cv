@@ -23,6 +23,15 @@ border-width: 5px;
 width: 5%
 }
 
+/*
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto;
+}
+*/
+
 img {
   height: 164px;
 }
